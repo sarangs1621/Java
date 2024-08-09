@@ -48,6 +48,4 @@ Got questions or feedback? Reach out via [GitHub Issues](https://github.com/sara
 
 Happy coding and enjoy your journey through Java programming! 🌟
 
----
 
-Feel free to customize this template with specific details related to your repository!
